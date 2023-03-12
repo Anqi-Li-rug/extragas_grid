@@ -1,10 +1,14 @@
 # extragas_grid
+
 Building extragas models in parallel. 
 
 
 # Outline: 
-The C++ codes (extragas) build models       
+
+Model bulding:  C++ codes (extragas)       
+
 We wrap the C++ codes into a shared library. 
+
 Use Python codes to call the shared library and do the parallel computing. 
 
 
