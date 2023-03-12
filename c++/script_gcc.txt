@@ -1,0 +1,2 @@
+g++ -mtune=native  -g -Wall -o /data/users/li/extragas_grid/library/n2403_model.so -shared -fPIC fitsUtils.cpp fitsutil.cpp myutilities.cpp statist.cpp   numint.cpp interpol.cpp  findValue.cpp  galFunctions.cpp dynamics.cpp extragasFits.cpp extragasPlots.cpp projections.cpp iterations.cpp inout.cpp accretion.cpp hothalo.cpp extragas.cpp extragas_fit_n2403.cpp main_wrap.cpp  -w -L/data/users/li/extragas_grid/library -lcfitsio -O3
+
