@@ -1,5 +1,5 @@
 # extragas_grid
-#building extragas models in parallel. 
+Building extragas models in parallel. 
 
 
 # Outline: 
