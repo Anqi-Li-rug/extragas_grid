@@ -1,0 +1,2 @@
+mpirun -hostfile hostfile --map-by ppr:30:node python3 grid_run.py
+
