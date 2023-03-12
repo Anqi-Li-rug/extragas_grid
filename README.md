@@ -3,9 +3,9 @@ Building extragas models in parallel.
 
 
 # Outline: 
-The C++ codes (extragas) build models.       
- The C++ codes are wrapped into a shared library. 
- Python codes call the shared library and do the parallel computing. 
+The C++ codes (extragas) build models       
+We wrap the C++ codes into a shared library. 
+Use Python codes to call the shared library and do the parallel computing. 
 
 
 # Steps:
